@@ -1,0 +1,11 @@
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\bin\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.deps.json
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\bin\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.dll
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\bin\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.pdb
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.csprojAssemblyReference.cache
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.AssemblyInfoInputs.cache
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.AssemblyInfo.cs
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.dll
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.pdb
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.dll
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.pdb
+E:\.NetCore\Blog\DamlaProje.Blog.DTO\obj\Debug\netcoreapp3.1\DamlaProje.Blog.DTO.csproj.CopyComplete

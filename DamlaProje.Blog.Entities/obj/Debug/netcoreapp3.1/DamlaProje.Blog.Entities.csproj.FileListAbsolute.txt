@@ -1,0 +1,16 @@
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.deps.json
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.dll
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.pdb
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.AssemblyInfoInputs.cache
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.AssemblyInfo.cs
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.dll
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.pdb
+C:\Users\DAMLA\source\repos\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.csprojAssemblyReference.cache
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.deps.json
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.dll
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\bin\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.pdb
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.AssemblyInfoInputs.cache
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.AssemblyInfo.cs
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.dll
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.pdb
+E:\.NetCore\Blog\DamlaProje.Blog.Entities\obj\Debug\netcoreapp3.1\DamlaProje.Blog.Entities.csprojAssemblyReference.cache

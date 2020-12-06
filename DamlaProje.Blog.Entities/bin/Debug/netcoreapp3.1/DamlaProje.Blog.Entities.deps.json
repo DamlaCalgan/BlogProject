@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DamlaProje.Blog.Entities/1.0.0": {
+        "runtime": {
+          "DamlaProje.Blog.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DamlaProje.Blog.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

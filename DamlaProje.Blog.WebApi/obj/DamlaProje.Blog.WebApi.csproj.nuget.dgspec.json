@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.NetCore\\Blog\\DamlaProje.Blog.WebApi\\DamlaProje.Blog.WebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\DamlaProje.Blog.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\DamlaProje.Blog.DataAccess.csproj",
+        "projectName": "DamlaProje.Blog.DataAccess",
+        "projectPath": "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\DamlaProje.Blog.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\DAMLA\\.nuget\\packages\\",
+        "outputPath": "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DAMLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\DamlaProje.Blog.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\DamlaProje.Blog.Business.csproj",
+        "projectName": "DamlaProje.Blog.Business",
+        "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\DamlaProje.Blog.Business.csproj",
+        "packagesPath": "C:\\Users\\DAMLA\\.nuget\\packages\\",
+        "outputPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DAMLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\DamlaProje.Blog.DataAccess.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\Damla.Blog.DataAccess\\DamlaProje.Blog.DataAccess.csproj"
+              },
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj"
+              },
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj",
+        "projectName": "DamlaProje.Blog.DTO",
+        "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj",
+        "packagesPath": "C:\\Users\\DAMLA\\.nuget\\packages\\",
+        "outputPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DAMLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj",
+        "projectName": "DamlaProje.Blog.Entities",
+        "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\DamlaProje.Blog.Entities.csproj",
+        "packagesPath": "C:\\Users\\DAMLA\\.nuget\\packages\\",
+        "outputPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DAMLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.NetCore\\Blog\\DamlaProje.Blog.WebApi\\DamlaProje.Blog.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NetCore\\Blog\\DamlaProje.Blog.WebApi\\DamlaProje.Blog.WebApi.csproj",
+        "projectName": "DamlaProje.Blog.WebApi",
+        "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.WebApi\\DamlaProje.Blog.WebApi.csproj",
+        "packagesPath": "C:\\Users\\DAMLA\\.nuget\\packages\\",
+        "outputPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DAMLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\DamlaProje.Blog.Business.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.Business\\DamlaProje.Blog.Business.csproj"
+              },
+              "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj": {
+                "projectPath": "E:\\.NetCore\\Blog\\DamlaProje.Blog.DTO\\DamlaProje.Blog.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
